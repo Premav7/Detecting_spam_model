@@ -1,0 +1,10 @@
+artifact_location: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641/models/m-95f6d18359414edbb72d899f823f9904/artifacts
+creation_timestamp: 1754906184033
+experiment_id: '496898097023150641'
+last_updated_timestamp: 1754906189183
+model_id: m-95f6d18359414edbb72d899f823f9904
+model_type: null
+name: model
+source_run_id: b8ca0dedcbc04345befd971fef89fc1d
+status: 2
+status_message: null

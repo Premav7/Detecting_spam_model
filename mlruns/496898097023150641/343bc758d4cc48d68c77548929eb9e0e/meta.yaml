@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641/343bc758d4cc48d68c77548929eb9e0e/artifacts
+end_time: 1754906322985
+entry_point_name: ''
+experiment_id: '496898097023150641'
+lifecycle_stage: active
+run_id: 343bc758d4cc48d68c77548929eb9e0e
+run_name: masked-skunk-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754906317247
+status: 3
+tags: []
+user_id: dearm

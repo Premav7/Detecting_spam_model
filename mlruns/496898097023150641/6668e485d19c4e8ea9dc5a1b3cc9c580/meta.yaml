@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641/6668e485d19c4e8ea9dc5a1b3cc9c580/artifacts
+end_time: 1754906276040
+entry_point_name: ''
+experiment_id: '496898097023150641'
+lifecycle_stage: active
+run_id: 6668e485d19c4e8ea9dc5a1b3cc9c580
+run_name: redolent-turtle-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754906275996
+status: 4
+tags: []
+user_id: dearm

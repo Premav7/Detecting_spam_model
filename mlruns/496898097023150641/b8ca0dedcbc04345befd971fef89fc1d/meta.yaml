@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641/b8ca0dedcbc04345befd971fef89fc1d/artifacts
+end_time: 1754906191009
+entry_point_name: ''
+experiment_id: '496898097023150641'
+lifecycle_stage: active
+run_id: b8ca0dedcbc04345befd971fef89fc1d
+run_name: smiling-koi-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754906183749
+status: 3
+tags: []
+user_id: dearm

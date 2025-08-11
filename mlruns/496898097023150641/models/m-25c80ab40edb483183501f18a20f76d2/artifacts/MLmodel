@@ -1,0 +1,28 @@
+artifact_path: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641/models/m-25c80ab40edb483183501f18a20f76d2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-25c80ab40edb483183501f18a20f76d2
+model_size_bytes: 160617
+model_uuid: m-25c80ab40edb483183501f18a20f76d2
+prompts: null
+run_id: 343bc758d4cc48d68c77548929eb9e0e
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5000]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-11 09:58:37.576013'

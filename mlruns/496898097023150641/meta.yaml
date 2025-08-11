@@ -1,0 +1,6 @@
+artifact_location: file:///D:/prema/premagit/Detecting_spam_model/mlruns/496898097023150641
+creation_time: 1754906182883
+experiment_id: '496898097023150641'
+last_update_time: 1754906182883
+lifecycle_stage: active
+name: spam_detection_experiment
