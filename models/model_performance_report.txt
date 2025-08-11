@@ -1,0 +1,8 @@
+
+
+=== Evaluation at 2025-08-11 12:56:09 ===
+Accuracy:  0.9614
+Precision: 1.0000
+Recall:    0.7114
+F1-score:  0.8314
+ROC-AUC:   0.9775
